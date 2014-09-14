@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCalculator</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu_screen">MenuScreen</string>
+    <string name="btnCalculator">Calculator </string>
+    <string name="btnSettings">Settings </string>
+    <string name="title_activity_calculator_screen">CalculatorScreen</string>
+    <string name="SearchString">SongName.mp3 </string>
+    <string name="btnSearch">Search </string>
+    <string name="title_activity_music_screen">MusicScreen</string>
+    <string name="title_activity_song">Song</string>
+
+</resources>
